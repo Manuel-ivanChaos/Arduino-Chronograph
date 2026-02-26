@@ -1,0 +1,66 @@
+-- Parts list and links (AliExpress, no referral - Wires excluded):
+
+USB-C Arduino Nano or equivalent            | 1x |
+
+- https://it.aliexpress.com/item/1005006263304000.html?spm=a2g0o.productlist.main.11.39e3dxm1dxm1yP&algo_pvid=b6db2978-1b3f-447f-b178-75ee9fadea62&algo_exp_id=b6db2978-1b3f-447f-b178-75ee9fadea62-10&pdp_ext_f=%7B%22order%22%3A%2215534%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%215.04%211.27%21%21%2139.82%2110.00%21%402103835e17721261962838880eb3cb%2112000036520848249%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea3d8210%3Bm03_new_user%3A-29895%3BpisId%3A5000000197840834&curPageLogUid=REf2gntcLhac&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006263304000%7C_p_origin_prod%3A
+
+IR photodiodes + LM393 comparators, 3/4 pin | 2x | 	 
+- https://it.aliexpress.com/item/1005006821259835.html?spm=a2g0o.productlist.main.37.74272tgU2tgUWG&algo_pvid=13ced9af-4412-43ef-ab8c-1e2392654361&algo_exp_id=13ced9af-4412-43ef-ab8c-1e2392654361-34&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.64%211.64%21%21%2112.96%2112.96%21%4021038df617721258412563966e8ee4%2112000038411002033%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea3d8210%3Bm03_new_user%3A-29895&curPageLogUid=xz1PQgsIFT6g&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006821259835%7C_p_origin_prod%3A
+
+
+5mm IR LEDs + 220Ω - 330Ω resistors 	    | 2x or 4x | 
+- https://it.aliexpress.com/item/1005009614586560.html?spm=a2g0o.productlist.main.1.672aA1NgA1Ngb9&algo_pvid=c3efeb5d-b240-4287-adf9-e9359ae2e985&algo_exp_id=c3efeb5d-b240-4287-adf9-e9359ae2e985-0&pdp_ext_f=%7B%22order%22%3A%22290%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%212.82%210.92%21%21%2122.28%217.29%21%402103856417721259422664981e6892%2112000049636839705%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea3d8210%3Bm03_new_user%3A-29895%3BpisId%3A5000000197840834&curPageLogUid=thpYYEc8X06Y&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009614586560%7C_p_origin_prod%3A
+
+https://it.aliexpress.com/item/32847096736.html?spm=a2g0o.productlist.main.12.2cc7dAUadAUaKv&aem_p4p_detail=2026022609131913621988974789740017673569&algo_pvid=1a4cc0ba-b19a-4c4b-8194-0d1e0bc7f1a8&algo_exp_id=1a4cc0ba-b19a-4c4b-8194-0d1e0bc7f1a8-11&pdp_ext_f=%7B%22order%22%3A%223186%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.62%211.19%21%21%211.87%211.37%21%402103963717721259998632448e54fc%2165227930964%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea3d8210%3Bm03_new_user%3A-29895%3BpisId%3A5000000197840834&curPageLogUid=GDw7MTljmker&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32847096736%7C_p_origin_prod%3A&search_p4p_id=2026022609131913621988974789740017673569_3
+
+
+128x64 I2C 0.96" Oled 		    	     | 1x |	 -
+
+https://it.aliexpress.com/item/1005006700828250.html?spm=a2g0o.productlist.main.3.2c5fmVZumVZuKQ&algo_pvid=1f2130be-eb86-4cd9-9934-ae304801c514&algo_exp_id=1f2130be-eb86-4cd9-9934-ae304801c514-2&pdp_ext_f=%7B%22order%22%3A%227727%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%214.47%211.23%21%21%2135.33%219.74%21%40211b619a17721260722231581ee3cc%2112000038044958624%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea3d8210%3Bm03_new_user%3A-29895%3BpisId%3A5000000197840846&curPageLogUid=nzy4LsPyba9X&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006700828250%7C_p_origin_prod%3A
+
+
+*Optional, Half-size breadboard		     | 2x |	 -
+
+https://it.aliexpress.com/item/1005010426826947.html?spm=a2g0o.productlist.main.3.5b2856a4JyDzYs&algo_pvid=43e15ede-78ba-4165-a479-af9ad805d4d5&algo_exp_id=43e15ede-78ba-4165-a479-af9ad805d4d5-2&pdp_ext_f=%7B%22order%22%3A%22236%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%213.73%211.79%21%21%2129.46%2114.14%21%40211b619a17721261126242740ee3cc%2112000052374154263%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aea3d8210%3Bm03_new_user%3A-29895&curPageLogUid=oqeFNOyZcxfR&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010426826947%7C_p_origin_prod%3A
+
+*Total's anywhere between 15€ and 20€ depending on region and current prices.
+
+
+
+-- Instructions:
+
+Overall, it is quite simple.
+
+- Pinout
+
+1. Hook the Digital Output (D0) pin of your photodiodes + comparators to Digital pins 2 and 3 on your board.
+
+2. Connect the SCL and SDA pins on your Oled display to pins A4 and A5 on your board as per I2C standard.
+
+3. Connect in series a resistor and an IR LED, repeat once / thrice if you'd rather have a "Stronger" or wider light beam.
+
+4. Wire the 5v and Ground pins to power your comparators, display, and LEDs.
+
+- Setup
+
+1. Find a fitting enclosure that allows for the photodiodes and IR LEDs to be aligned and facing each other through ~5mm wide holes. An empty paper-towel roll will do the job, though a 3D printed enclosure would be ideal.
+Measure the distance between them beforehand, and input it (in cm) into the relative field inside the code's respective variable. If you'd rather not touch it, the default distance is set to 10cm from the center of the holes.
+
+2. Power everything up.
+
+3. Your photodiodes + LM393 modules will have one or two lights on. The first one indicates that power is being received, the other indicates that an IR light source is being detected.
+Using a small Phillips screwdriver, turn the screw on the comparators to adjust their sensitivity to the minimum possible value before they stop detecting the IR LED's light entirely; check with the tip of your screwdriver whether a small object is capable of interrupting the detection of the IR source. Once you achieve a satisfyingly low sensitivity, everything should be ready to go.
+
+- Use
+
+1. When testing your replica, make sure that the barrel is properly aligned as to allow for the BB to hit both sensors.
+If you wish to widen the FOV of the sensors, you may wire in series an array of photodiodes to your lm393 comparators, albeit I have not tested this method myself.
+
+
+Note: Your display might show a random array of pixels until the first measurement is taken.
+Note 2: Velocity is measured in m/s; to view it in FPS, you may paste the following line: "u8g.print(float(RecordedVel*3.28));", as a replacement to Line 85 of the source code.
+Note 3: BB weight may be set at line 22 of the code.
+
+
+Enjoy <3
+
